@@ -1,15 +1,35 @@
-Atividade: Inserindo Imagens e Links em HTML
+Relatório da Atividade – HTML: Inserindo Imagens e Links
 
-Esta atividade tem como objetivo ensinar o aluno a inserir imagens e links dentro de uma página HTML utilizando as principais tags de marcação. O conteúdo é estruturado para demonstrar como combinar imagens, links e parágrafos para criar páginas mais interativas.
+Nesta atividade, foi desenvolvido um código HTML com o objetivo de praticar a inserção de imagens e links em uma página web.
 
-O documento HTML começa com a estrutura básica, incluindo as tags <html>, <head> e <body>. No título da página, é usada a tag <h1> com o texto "Inserindo Imagem", que serve como título principal visível no corpo do site.
+O título da página é “Inserindo Imagem”, utilizando a tag <h1>. Abaixo dele, foi inserida uma imagem do carro Lexus LFA. Essa imagem está envolvida por uma tag de link (<a>), ou seja, ao clicar na imagem, o usuário será redirecionado para uma busca no Google sobre o carro.
 
-Em seguida, há uma tag <a> (link) que envolve uma imagem (<img>). Isso significa que, ao clicar na imagem, o usuário será redirecionado para uma página de pesquisa do Google sobre o carro "Lexus LFA". A imagem usada é chamada "Lfa.jpg", que deve estar salva no mesmo diretório do arquivo HTML para que funcione corretamente.
+Além disso, foram criados dois parágrafos contendo links:
 
-Logo abaixo, há um parágrafo que contém um link para um vídeo no YouTube. O texto diz "Este link leva para youtube", onde a palavra "link" é clicável e direciona o usuário ao vídeo.
+O primeiro link leva para um vídeo no YouTube.
 
-Por fim, há outro parágrafo com um link que leva ao site oficial da Lexus Brasil. Assim como o anterior, o link está embutido dentro de uma frase, tornando a navegação mais amigável.
+O segundo link leva para o site oficial da Lexus Brasil.
 
-Essa atividade trabalha principalmente com as tags <a>, <img>, <p> e <h1>, que são fundamentais na construção de páginas web básicas. É importante garantir que todos os arquivos de imagem utilizados estejam no mesmo local do arquivo HTML, para que sejam carregados corretamente.
+Esses links estão inseridos dentro de frases, utilizando as tags <p> e <a>, tornando a navegação mais clara e intuitiva.
 
-Essa prática ajuda os alunos a compreenderem melhor o funcionamento dos hiperlinks, da exibição de imagens e da estrutura geral de um documento HTML.
+Para que a imagem seja exibida corretamente, o arquivo "Lfa.jpg" deve estar na mesma pasta que o arquivo HTML.
+
+Tags utilizadas:
+
+<html>: Define o início do documento HTML.
+
+<head>: Contém informações da página, como o título.
+
+<title>: Define o título da aba do navegador.
+
+<body>: Contém o conteúdo visível da página.
+
+<h1>: Título principal.
+
+<a>: Criação de links.
+
+<img>: Inserção de imagem.
+
+<p>: Parágrafos de texto.
+
+Essa atividade ajudou a entender como criar links clicáveis e como inserir imagens em uma página HTML, além de reforçar o uso da estrutura básica do HTML.
